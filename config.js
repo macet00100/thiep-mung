@@ -1,7 +1,7 @@
 const nameGirl = 'Các bạn nữ K24TCB ';
 const giftUrl = 'https://www.facebook.com/groups/388676249351013';
 const eventName = 'Chúc Mừng 08-03';
-const titleCard = 'Tặng người ấy';
+const titleCard = 'Tặng các công chúa xinh đẹp của K24 TCB';
 const contentCard = 'Chúc các bạn nữ của chúng mình 08/03 tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với các bạn trong hôm nay và cả những ngày sau';
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
