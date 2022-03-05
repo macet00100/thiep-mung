@@ -1,4 +1,4 @@
-const nameGirl = 'Các bạn nữ K24TCB ';
+const nameGirl = 'Các bạn nữ K24TCB';
 const giftUrl = 'https://www.facebook.com/groups/388676249351013';
 const eventName = 'Chúc Mừng 08-03';
 const titleCard = 'Tặng các công chúa xinh đẹp của K24 TCB';
