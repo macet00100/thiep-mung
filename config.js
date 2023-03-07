@@ -1,4 +1,4 @@
-const nameGirl = 'Các bông hồng của HYS Đống Đa';
+const nameGirl = 'Chị em HYS Đống Đa';
 const giftUrl = 'https://www.facebook.com/groups/703536489670408';
 const eventName = 'Chúc Mừng 08-03';
 const titleCard = 'Tặng các công chúa xinh đẹp của HYS DODA';
